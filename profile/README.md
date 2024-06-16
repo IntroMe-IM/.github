@@ -5,6 +5,7 @@ IntroMe는 블록체인 기술을 이용하여 신뢰성 높은 프로필을 실
 사용자는 자신의 이력과 프로필을 안전하게 관리하고, 필요할 때마다 이를 효율적으로 공유할 수 있습니다.
 
 ## App Preview
+![Introme App Preview](../introme_app.png)
 
 
 ## ✨ 주요 기능
