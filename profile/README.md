@@ -7,14 +7,6 @@ IntroMe는 블록체인 기술을 이용하여 신뢰성 높은 프로필을 실
 ## App Preview
 ![Introme App Preview](../introme_app.png)
 
-## Tech
-- Backend : ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-2496ED?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-- Frontend : ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-## Backend ERD
-![Introme App Preview](../introme_erd.png)
-
 
 ## ✨ 주요 기능
 - **프로필 생성 및 공유**: 사용자는 자신의 이력서를 프로필로 생성하고, 이를 QR코드, PDF 또는 카카오톡을 통해 쉽게 공유할 수 있습니다.
@@ -31,6 +23,15 @@ IntroMe는 블록체인 기술을 이용하여 신뢰성 높은 프로필을 실
 - **QR 코드**: 모바일 디바이스를 통해 쉽게 스캔하고 접근할 수 있습니다.
 - **PDF 내보내기**: 전문적인 형태의 명함으로 저장하고 인쇄할 수 있습니다.
 - **카카오톡 공유**: 친구나 동료에게 채팅을 통해 직접 공유합니다.
+
+## Tech
+- Backend : ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-2496ED?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+- Frontend : ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+## Backend ERD
+![Introme App Preview](../introme_erd.png)
+
 
 ## 🤝 기여하기
 이 프로젝트는 오픈 소스이며, 다양한 기여를 환영합니다. 기능 개선, 버그 수정, 문서 업데이트 등 여러 방법으로 기여할 수 있습니다.
