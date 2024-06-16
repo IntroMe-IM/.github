@@ -12,6 +12,8 @@ IntroMe는 블록체인 기술을 이용하여 신뢰성 높은 프로필을 실
 
 - Frontend : ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
+## Backend ERD
+![Introme App Preview](../introme_erd.png)
 
 
 ## ✨ 주요 기능
