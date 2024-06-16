@@ -8,7 +8,7 @@ IntroMe는 블록체인 기술을 이용하여 신뢰성 높은 프로필을 실
 ![Introme App Preview](../introme_app.png)
 
 ## Tech
-Backend : ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![AWS](https://img.shields.io/badge/amazonwebservices-2496ED?style=flat-square&logo=AWS&logoColor=white)
+Backend : ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-2496ED?style=flat-square&logo=amazonwebservices&logoColor=white)
 Frontend : ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
