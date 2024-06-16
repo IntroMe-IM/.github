@@ -7,6 +7,11 @@ IntroMe는 블록체인 기술을 이용하여 신뢰성 높은 프로필을 실
 ## App Preview
 ![Introme App Preview](../introme_app.png)
 
+## Tech
+Backend : ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+Frontend : ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
 
 ## ✨ 주요 기능
 - **프로필 생성 및 공유**: 사용자는 자신의 이력서를 프로필로 생성하고, 이를 QR코드, PDF 또는 카카오톡을 통해 쉽게 공유할 수 있습니다.
