@@ -5,7 +5,7 @@ IntroMe는 블록체인 기술을 이용하여 신뢰성 높은 프로필을 실
 사용자는 자신의 이력과 프로필을 안전하게 관리하고, 필요할 때마다 이를 효율적으로 공유할 수 있습니다.
 
 ## App Preview
-<img src=https://private-user-images.githubusercontent.com/95608811/340079732-53b3c885-819e-40ee-98ba-667ec931a979.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg1Mjk4MDEsIm5iZiI6MTcxODUyOTUwMSwicGF0aCI6Ii85NTYwODgxMS8zNDAwNzk3MzItNTNiM2M4ODUtODE5ZS00MGVlLTk4YmEtNjY3ZWM5MzFhOTc5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE2VDA5MTgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmZDk2YjVjNGQ5NGJiNWRkMDRjMTAzMWIyMWViN2VkZjQ3NjE5Y2ViMzc3ZDI0MjBkZjljYmJhYmRkNDQyNTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bq3nrXBYaL7Lgoqch1jqW-k15jasDDMuxpVo7oMDR90>
+
 
 ## ✨ 주요 기능
 - **프로필 생성 및 공유**: 사용자는 자신의 이력서를 프로필로 생성하고, 이를 QR코드, PDF 또는 카카오톡을 통해 쉽게 공유할 수 있습니다.
