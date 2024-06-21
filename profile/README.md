@@ -32,6 +32,9 @@ IntroMe는 블록체인 기술을 이용하여 신뢰성 높은 프로필을 실
 ## Backend ERD
 ![Introme App Preview](../introme_erd.png)
 
+## IntroMe_Preview
+[![Video Label](../introme_app.png)](https://yotube.be/mIxR3rIv9ZQ)
+
 
 ## 🤝 기여하기
 이 프로젝트는 오픈 소스이며, 다양한 기여를 환영합니다. 기능 개선, 버그 수정, 문서 업데이트 등 여러 방법으로 기여할 수 있습니다.
