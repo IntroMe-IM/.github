@@ -33,7 +33,7 @@ IntroMe는 블록체인 기술을 이용하여 신뢰성 높은 프로필을 실
 ![Introme App Preview](../introme_erd.png)
 
 ## IntroMe_Preview
-[![Video Label](../introme_app.png)](https://yotube.be/mIxR3rIv9ZQ)
+[![Video Label](../introme_app.png)](https://youtube/mIxR3rIv9ZQ)
 
 
 ## 🤝 기여하기
