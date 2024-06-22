@@ -10,7 +10,7 @@ IntroMe는 블록체인 기술을 이용하여 신뢰성 높은 프로필을 실
 ## 🙍‍♂️Contributor
 |<img width=200 src="https://avatars.githubusercontent.com/u/50124989?v=4" />|<img width=200 src="https://avatars.githubusercontent.com/u/95608811?v=4" />|<img width=200 src="https://avatars.githubusercontent.com/u/50348069?v=4" />|<img width=200 src="https://avatars.githubusercontent.com/u/116784495?v=4" />|
 |:----:|:----:|:----:|:----:|
-| (팀장)[백은호](https://github.com/BackEunHo) | [이인호](https://github.com/2inlee) | [이승규](https://github.com/vlqhel3440) | [이정](https://github.com/kakao3450) |
+| (팀장)[백은호](https://github.com/BackEunHo) | [이인호](https://github.com/2inlee) | [이승규](https://github.com/vlqhel3440) | [이정욱](https://github.com/kakao3450) |
 | Front-End | Back-End | Back-End | Front-End |
 
 ## ✨ 주요 기능
